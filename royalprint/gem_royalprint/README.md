@@ -5,11 +5,15 @@
 ~~~
 {EN}
 
-royalprint is perfect for simplifying the information that needs to go to the console, similar to printing in C++ command cout, PHP echo, log("Hi"), go("Hello ..."), cout("whoami?"), display("She Knows")... and more.
+royalprint is perfect for simplifying the information that needs to go to the console,
+similar to printing in C++ command cout, PHP echo, log("Hi"), go("Hello ..."),
+cout("whoami?"), display("She Knows")... and more.
 
 {PTBR}
 
-royalprint é perfeita para simplificar as informações que precisam ir para o console, com similaridade de impressão em C++ comando cout, PHP echo, log("Oi"), go("Olá ..."), cout("whoami?"), display("She Knows")... e mais.
+royalprint é perfeita para simplificar as informações que precisam ir para o console,
+com similaridade de impressão em C++ comando cout, PHP echo, log("Oi"), go("Olá ..."),
+cout("whoami?"), display("She Knows")... e mais.
 ~~~
 
 ![](https://img.shields.io/badge/Ruby-3.2.2|%203.2-red)
@@ -79,7 +83,7 @@ say_my_name = "SayMyName."
 go(say_my_name)`
 ~~~
 
-> codebabel go
+## ✅ codebabel go
 ~~~ruby
 # codebabel go
 require 'royalprint'
@@ -90,7 +94,7 @@ go(say_my_name)
 #> SayMyName.
 ~~~
 
-> codebabel show
+## ✅ codebabel show
 ~~~ruby
 # codebabel show
 require 'royalprint'
@@ -101,7 +105,7 @@ show(se_eu_largar_o_freio)
 #> Vai dar mais valor pra mim.
 ~~~
 
-> use PHP echo
+## ✅ use PHP echo
 ~~~ruby
 # PHP echo
 require 'royalprint'
@@ -112,7 +116,7 @@ echo(my_name_is)
 #> What?
 ~~~
 
-> Rails xRails
+## ✅ Rails xRails
 ~~~ruby
 # Rails xPrint
 require 'royalprint'
@@ -123,7 +127,7 @@ xRails(show_this)
 #> Do your jumps!
 ~~~
 ### formats
-### all print formats / todos os formatos
+## 📊 all print formats / todos os formatos
 ~~~
 go
 log
@@ -137,8 +141,9 @@ printin
 println
 xRails
 ~~~
+
 ### basic
-> basic use
+## 🔹 basic use
 ~~~ruby
 # easy pease fela / uso básico fela
 require 'royalprint'
@@ -148,7 +153,8 @@ log(msg_box); # simple console message > ...
 go("nengue");  # simple console message > ...
 ~~~
 ### complete
-> complete use
+
+## 🔹🔹 complete use
 ~~~ruby
 # easy pease use/ uso básico fela
 require 'royalprint'
@@ -170,14 +176,14 @@ printin(msg_box);  # scala printin
 println(msg_box);  # java println
 
 # Aesthetic xPrint Thematic
-xRails(msg_box);     # Rails xPrint
+xRails(msg_box);   # Rails xPrint
 ~~~
 ### changelog
 ## 🚨 Change Log
 |Version| Version Name | Upgrade Latency |
 |-------|--------------|-----------------|
 | 0.0.1 |  royalprint  |    START LIB    |
-| 0.0.2 |  royalprint  | * Fix:lib file  |
+| 0.0.2 |  royalprint  | * FIX LIB FILE  |
 
 ## 💜 Thank's 🧡
 ~~~
