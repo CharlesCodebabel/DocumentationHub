@@ -49,7 +49,8 @@ Ruby Gem
 source 'https://rubygems.org/gems/royalprint'
 gem 'royalprint'
 
-# 3) in the folder where the Gemfile is, type the command in the terminal to install it using the bundle install command, generate "Gemfile.lock".
+# 3) in the folder where the Gemfile is, type the command in the terminal to install
+# it using the bundle install command, generate "Gemfile.lock".
 > bundle install
 
 # 4) create your_file.rb and call the royalprint lib via require
@@ -71,7 +72,8 @@ go(say_my_name)
 source 'https://rubygems.org/gems/royalprint'
 gem 'royalprint'
 
-# 3) na pasta onde está o Gemfile digite o comando no terminal para instalação pelo comando bundle install, isso gera o "Gemfile.lock".
+# 3) na pasta onde está o Gemfile digite o comando no terminal para instalação
+# pelo comando bundle install, isso gera o "Gemfile.lock".
 > bundle install
 
 # 4) crie seu_arquivo.rb e chame a lib royalprint pelo require.
