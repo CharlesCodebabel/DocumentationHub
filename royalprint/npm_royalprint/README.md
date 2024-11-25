@@ -5,11 +5,15 @@
 ~~~
 {EN}
 
-royalprint is perfect for simplifying the information that needs to go to the console, similar to printing in C++ command cout, PHP echo, log("Hi"), go("Hello ..."), cout("whoami?"), puts("She Knows")... and more.
+royalprint is perfect for simplifying the information that needs to go to the console,
+similar to printing in C++ command cout, PHP echo, log("Hi"), go("Hello ..."),
+cout("whoami?"), puts("She Knows")... and more.
 
 {PTBR}
 
-royalprint é perfeita para simplificar as informações que precisam ir para o console, com similaridade de impressão em C++ comando cout, PHP echo, log("Oi"), go("Olá ..."), cout("whoami?"), puts("She Knows")... e mais.
+royalprint é perfeita para simplificar as informações que precisam ir para o console,
+com similaridade de impressão em C++ comando cout, PHP echo, log("Oi"), go("Olá ..."),
+cout("whoami?"), puts("She Knows")... e mais.
 ~~~
 
 ![](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square:)
