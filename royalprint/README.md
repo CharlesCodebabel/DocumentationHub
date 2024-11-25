@@ -9,4 +9,4 @@
 
 ### Javascript npm royalprint ( royalprint Documentation )
 
-📂 [npm_royalprint](https://github.com/CharlesCodebabel/Codebabel-Ruby/tree/main/gem_rinput)
+📂 [npm_royalprint](https://github.com/CharlesCodebabel/DocumentationHub/tree/main/royalprint/npm_royalprint)
