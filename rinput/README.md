@@ -39,7 +39,7 @@ Ruby Gem
 
 ### use
 ## how to use / como usar :
-> use go minimum sintax
+> easy use
 
 ### use_en
 ~~~bash
