@@ -1,6 +1,6 @@
-# CodeBabel-DocumentationHub
+# DocumentationHub-royalprint
 
-## DocumentationHub : index
+## royalprint : index
 [![](https://i.postimg.cc/L6CqTCBD/Banner-New-13-12-23.png)]()
 
 ### Ruby royalprint ( royalprint Documentation )
