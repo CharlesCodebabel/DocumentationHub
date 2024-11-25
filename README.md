@@ -5,3 +5,6 @@
 
 ### royalprint ( royalprint Documentation )
 📂 [royalprint](https://github.com/CharlesCodebabel/DocumentationHub/tree/main/royalprint)
+
+### rinput ( rinput Documentation )
+📂 [rinput](https://github.com/CharlesCodebabel/DocumentationHub/tree/main/royalprint)
